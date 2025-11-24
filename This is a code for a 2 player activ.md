@@ -25,4 +25,4 @@ screenshot
 
 ----------------------------------------------
 
-![](Tic Tac Toe Game.jpg)
+![](python.jpg)
